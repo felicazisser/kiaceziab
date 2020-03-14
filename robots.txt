@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iexeagham.confusedgames.com/sitemap.xml
